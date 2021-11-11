@@ -1,0 +1,10 @@
+[alias]
+    co = checkout
+    cam = commit -am
+    cm = commit -m
+    unstage = reset --soft HEAD^
+    st = status
+    br = branch
+[user]
+	name = David Giannetto
+	email = david.giannetto@dynata.com
